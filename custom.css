@@ -1,8 +1,21 @@
-
+#errors{
+  display: none;
+}
 a:hover{
-  color: #84152c !important;
+  color: white !important;
   text-decoration-line: underline !important;
 }
 a {
- color: #84152c !important;
+ color: white !important;
+}
+
+#myList a{
+  color: #84152c !important;
+ }
+
+.blue {
+  background-color: #00356b;
+}
+.footer-font{
+  color: white;
 }
